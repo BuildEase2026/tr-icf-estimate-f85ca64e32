@@ -1,0 +1,58 @@
+{
+ "job": "Tramuntana 1A, Busot",
+ "revision": "E01",
+ "stages": [
+  {
+   "n": 1,
+   "title": "Semi-basement ICF",
+   "desc": "Nudura ICF semi-basement on its raft: 8in XR35 retaining ring to the terrace drop, 6in XR35 spine wall, seven courses to +0.00, with the two internal door openings.",
+   "files": [
+    {
+     "glb": "stage-1.glb",
+     "part": null,
+     "label": null,
+     "bytes": 1006392
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Ground-floor slab",
+   "desc": "The 300 mm ground-floor slab bearing on the semi-basement walls, indicative.",
+   "files": [
+    {
+     "glb": "stage-2.glb",
+     "part": null,
+     "label": null,
+     "bytes": 2500
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Ground-floor ICF",
+   "desc": "Nudura 6in XR35 ground-floor walls with the fifteen openings, cut to the drawn parapets: +3.80 to the bedroom bar, +4.80 at the west wall of the living bar falling over 5.24 m to +3.80.",
+   "files": [
+    {
+     "glb": "stage-3.glb",
+     "part": null,
+     "label": null,
+     "bytes": 1092180
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Roofs and pool",
+   "desc": "The indicative roof slabs over both bars and the 6in Standard pool shell, 6.0 x 3.0 x 2.0 m deep, on its base.",
+   "files": [
+    {
+     "glb": "stage-4.glb",
+     "part": null,
+     "label": null,
+     "bytes": 254048
+    }
+   ]
+  }
+ ]
+}

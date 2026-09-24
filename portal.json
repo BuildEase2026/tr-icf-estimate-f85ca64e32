@@ -1,0 +1,224 @@
+{
+ "portal": "BuildEase ICF Project Environment",
+ "project": {
+  "client": "KUME Arquitectura / ARH Developments S.L.",
+  "job": "Tramuntana 1A, Busot",
+  "number_prefix": "ES26-078",
+  "status": "ESTIMATE",
+  "revision": "E01",
+  "model_title": "ES26-078 Tramuntana 1A, Busot - Estimate E01"
+ },
+ "default_view": "stage-4",
+ "views": [
+  {
+   "id": "stage-1",
+   "kind": "stage",
+   "n": 1,
+   "title": "Semi-basement ICF",
+   "desc": "Nudura ICF semi-basement on its raft: 8in XR35 retaining ring to the terrace drop, 6in XR35 spine wall, seven courses to +0.00, with the two internal door openings.",
+   "focus": false
+  },
+  {
+   "id": "stage-2",
+   "kind": "stage",
+   "n": 2,
+   "title": "Ground-floor slab",
+   "desc": "The 300 mm ground-floor slab bearing on the semi-basement walls, indicative.",
+   "focus": false
+  },
+  {
+   "id": "stage-3",
+   "kind": "stage",
+   "n": 3,
+   "title": "Ground-floor ICF",
+   "desc": "Nudura 6in XR35 ground-floor walls with the fifteen openings, cut to the drawn parapets: +3.80 to the bedroom bar, +4.80 at the west wall of the living bar falling over 5.24 m to +3.80.",
+   "focus": false
+  },
+  {
+   "id": "stage-4",
+   "kind": "stage",
+   "n": 4,
+   "title": "Roofs and pool",
+   "desc": "The indicative roof slabs over both bars and the 6in Standard pool shell, 6.0 x 3.0 x 2.0 m deep, on its base.",
+   "focus": false
+  },
+  {
+   "id": "elev-N",
+   "kind": "elevation",
+   "n": 4,
+   "title": "North elevation",
+   "dir": [
+    0.0,
+    0.12,
+    -1.0
+   ],
+   "desc": "Complete structure seen from the north."
+  },
+  {
+   "id": "elev-S",
+   "kind": "elevation",
+   "n": 4,
+   "title": "South elevation",
+   "dir": [
+    0.0,
+    0.12,
+    1.0
+   ],
+   "desc": "Complete structure seen from the south."
+  },
+  {
+   "id": "elev-E",
+   "kind": "elevation",
+   "n": 4,
+   "title": "East elevation",
+   "dir": [
+    1.0,
+    0.12,
+    0.0
+   ],
+   "desc": "Complete structure seen from the east."
+  },
+  {
+   "id": "elev-W",
+   "kind": "elevation",
+   "n": 4,
+   "title": "West elevation",
+   "dir": [
+    -1.0,
+    0.12,
+    0.0
+   ],
+   "desc": "Complete structure seen from the west."
+  }
+ ],
+ "stages": [
+  {
+   "n": 1,
+   "title": "Semi-basement ICF",
+   "desc": "Nudura ICF semi-basement on its raft: 8in XR35 retaining ring to the terrace drop, 6in XR35 spine wall, seven courses to +0.00, with the two internal door openings.",
+   "files": [
+    {
+     "glb": "stage-1.glb",
+     "part": null,
+     "label": null,
+     "bytes": 1006392
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Ground-floor slab",
+   "desc": "The 300 mm ground-floor slab bearing on the semi-basement walls, indicative.",
+   "files": [
+    {
+     "glb": "stage-2.glb",
+     "part": null,
+     "label": null,
+     "bytes": 2500
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Ground-floor ICF",
+   "desc": "Nudura 6in XR35 ground-floor walls with the fifteen openings, cut to the drawn parapets: +3.80 to the bedroom bar, +4.80 at the west wall of the living bar falling over 5.24 m to +3.80.",
+   "files": [
+    {
+     "glb": "stage-3.glb",
+     "part": null,
+     "label": null,
+     "bytes": 1092180
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Roofs and pool",
+   "desc": "The indicative roof slabs over both bars and the 6in Standard pool shell, 6.0 x 3.0 x 2.0 m deep, on its base.",
+   "files": [
+    {
+     "glb": "stage-4.glb",
+     "part": null,
+     "label": null,
+     "bytes": 254048
+    }
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "drawings",
+   "title": "Estimate documents",
+   "note": "Budget quotation and the 40 ft container load plans. An estimate for pricing and planning, not an approval or construction issue.",
+   "zip": {
+    "file": "downloads/ES26-078 Estimate documents.zip",
+    "bytes": 1386668,
+    "count": 5
+   },
+   "docs": [
+    {
+     "id": "ES26-078-LP-01",
+     "title": "Container load plans - per plot",
+     "file": "docs/drawings/ES26-078-LP-01 Container load plans - per plot.pdf",
+     "pages": 3,
+     "thumb": "thumbs/ES26-078-LP-01.png",
+     "bytes": 40649,
+     "number": "ES26-078-LP-01",
+     "view": "stage-4",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-078-LP-02",
+     "title": "Container load plans - whole site",
+     "file": "docs/drawings/ES26-078-LP-02 Container load plans - whole site.pdf",
+     "pages": 12,
+     "thumb": "thumbs/ES26-078-LP-02.png",
+     "bytes": 70627,
+     "number": "ES26-078-LP-02",
+     "view": "stage-4",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-078-PR-01",
+     "title": "Budget quotation",
+     "file": "docs/drawings/ES26-078-PR-01 Budget quotation.pdf",
+     "pages": 6,
+     "thumb": "thumbs/ES26-078-PR-01.png",
+     "bytes": 355000,
+     "number": "ES26-078-PR-01",
+     "view": "stage-4",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-078-PS-01",
+     "title": "Pallet stack sheets - per plot",
+     "file": "docs/drawings/ES26-078-PS-01 Pallet stack sheets - per plot.pdf",
+     "pages": 16,
+     "thumb": "thumbs/ES26-078-PS-01.png",
+     "bytes": 288279,
+     "number": "ES26-078-PS-01",
+     "view": "stage-4",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-078-PS-02",
+     "title": "Pallet stack sheets - whole site",
+     "file": "docs/drawings/ES26-078-PS-02 Pallet stack sheets - whole site.pdf",
+     "pages": 47,
+     "thumb": "thumbs/ES26-078-PS-02.png",
+     "bytes": 946832,
+     "number": "ES26-078-PS-02",
+     "view": "stage-4",
+     "view_opts": {}
+    }
+   ]
+  }
+ ],
+ "focus": null,
+ "download_all": {
+  "file": "downloads/ES26-078 Tramuntana 1A, Busot - Estimate E01.zip",
+  "bytes": 1386668,
+  "count": 5,
+  "title": "Download everything"
+ }
+}
